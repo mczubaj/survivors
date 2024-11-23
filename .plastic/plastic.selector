@@ -1,0 +1,4 @@
+repository "Survivors 2.0@Mihau_Games@cloud"
+  path "/"
+    br "/main"
+    co "/main"
